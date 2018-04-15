@@ -1,1 +1,1 @@
-{"link":"https:\/\/play.google.com\/store\/apps\/details?id=com.xemtivi.tivitructiep","image":"https:\/\/www.tbmatuka.com\/upload\/tv-on-512x512.png","title":"Tải ứng dụng xem tivi nhiều kênh"}
+{"link":"https://itunes.apple.com/us/app/soi-cầu-miền-bắc/id1361659714?ls=1&mt=8","image":"http://sieucauvip.online/wp-content/uploads/2016/07/com.xoso_.ketqua.soicau-w250.png","title":"Tải ứng dụng soi cầu miền bắc"}
